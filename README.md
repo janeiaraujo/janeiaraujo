@@ -10,8 +10,6 @@
 
 :books:  I’m currently learning everything.
 
-:outbox_tray:  2023 Goals: create a new project and find a new job.
-
 <img src="https://komarev.com/ghpvc/?username=janeijunior&label=Profile%20views&color=0e75b6&style=flat" alt="janeijunior" /> hipsters and nerds have come here o/
 
 
