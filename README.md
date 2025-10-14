@@ -24,13 +24,24 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=janeijunior&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janeijunior&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janeijunior&theme=nord_dark) |
-| :-: | :-: | :-: |
+<!-- GitHub Readme Stats (mais confiável) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janeiaraujo&show_icons=true&theme=dark&count_private=true" alt="Janei's GitHub stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeiaraujo&layout=compact&theme=dark&hide=html" alt="Top languages" />
+</p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janeijunior&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=janeijunior&hide_border=true&background=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+<!-- Contributions calendar (padrão do GitHub) -->
+<p align="center">
+  ![GitHub Contribution Chart](https://ghchart.rshah.org/janeiaraujo)
+</p>
+
+<!-- Optional: Streaks (pode ficar fora do ar às vezes) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeiaraujo&theme=dark" alt="GitHub streak stats" />
+</p>
 
 ---
 
@@ -57,7 +68,7 @@ You can check some of my public projects below or visit my pinned repositories �
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=janeijunior&label=Profile%20views&color=0e75b6&style=flat" alt="janeijunior" />
+<img src="https://komarev.com/ghpvc/?username=janeiaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="janeiaraujo" />
 </p>
 
 ---
