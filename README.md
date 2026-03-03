@@ -11,7 +11,7 @@
 
 🇧🇷 I'm from Brazil and I work with **DevOps, SRE and Cloud Infrastructure Engineering**.  
 💼 I design and implement **CI/CD pipelines**, **containerized architectures** (Docker + Kubernetes), and **monitoring solutions** with Grafana, Prometheus and ELK.  
-☁️ My experience covers **AWS, Azure and GCP**, focusing on performance, observability, and automation.  
+☁️ My experience covers **AWS, OCI and GCP**, focusing on performance, observability, and automation.  
 📚 I'm constantly learning new tools and best practices to enhance **infrastructure reliability and developer productivity**.
 
 ---
